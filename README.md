@@ -5,7 +5,7 @@ Authers:
 
 Description:
 
-1. Before applying this project, please uncomment the DatabaseRest() function and turn off the system, then comment it again, and uncomment the SignUp(AdminActive) function, to assign new admin, then turn off the system, and comment the SignUp(ActiveAdmin) function to be ready for use. (This is the pre-use process to prepare the system for new home)
+1. Before applying this project, please uncomment the DatabaseRest() function and turn off the system, then comment it again, and uncomment the SignUp(AdminActive) function, to assign new admin, then turn off the system, and comment the SignUp(ActiveAdmin) function to be ready for use (This is the pre-use process to prepare the system for new home)
 
 2.This project is built using AVR ATmega32.
 
